@@ -1,0 +1,10 @@
+{
+    "userObject":{},
+    "doMessage":{},
+    "selectedPlyerId":-1,
+    "preSelectedPlyerId":-1,
+    "voteSelectedPlyerId":-1,
+    "emoji":"",
+    "role":"",
+    "life":true
+}
